@@ -1,0 +1,33 @@
+*{
+ margin:0;
+ padding:0;
+ outline:0;
+}
+ .header .navbar-toggler-icon {
+  
+background:dark;  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+} 
+
+.cont {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size:35px;
+}
+ .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.dropdown-menu{height:300px;width:auto;   }
+. j{    background-color: #17285d;}
+
+.container{text-underline
+div.head1{height:px;}
+.head1 h4{ font-size:16px;padding-top:7px; height:30px;}
+ div.j{height:100px;}
+
+.n{width:100%;}
+	
+}
